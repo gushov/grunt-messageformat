@@ -1,0 +1,43 @@
+{
+  "name": "grunt-messageformat",
+  "description": "messageformat.js's command line tool ported to a grunt plugin",
+  "version": "0.1.0",
+  "homepage": "https://github.com/gushov/grunt-messageformat",
+  "author": {
+    "name": "Gus Hovland",
+    "email": "gushov@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gushov/grunt-messageformat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gushov/grunt-messageformat/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/gushov/grunt-messageformat/blob/master/LICENSE.txt"
+    }
+  ],
+  "main": "grunt.js",
+  "bin": "bin/grunt-messageformat",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "messageformat": "~0.1.5",
+    "glob": "~3.1.14",
+    "underscore": "~1.4.3",
+    "async": "~01.22"
+  }
+  "devDependencies": {
+    "grunt": "~0.3.17"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
