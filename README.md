@@ -1,6 +1,6 @@
 # grunt-messageformat
 
-The best sample grunt tasks ever.
+messageformat.js's command line tool ported to a grunt plugin
 
 ## Getting Started
 Install this grunt plugin next to your project's [grunt.js gruntfile][getting_started] with: `npm install grunt-messageformat`
