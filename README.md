@@ -14,14 +14,28 @@ grunt.loadNpmTasks('grunt-messageformat');
 [grunt]: http://gruntjs.com/
 [getting_started]: https://github.com/gruntjs/grunt/blob/master/docs/getting_started.md
 
-## Documentation
-_(Coming soon)_
+## Example
+In your InitConfig object
 
-## Contributing
-In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [grunt][grunt].
-
-## Release History
-_(Nothing yet)_
+```javascript
+// Project configuration.
+grunt.initConfig({
+  //...
+  messageformat: {
+    en: {
+      locale: 'en',
+      inputdir: './static/messages/en',
+      output: './locales/en/i18n.js'
+    },
+    de: {
+      locale: 'de',
+      inputdir: './static/messages/de',
+      output: './public/locales/de/i18n.js'
+    }
+  }
+  //...
+}
+```
 
 ## License
 Copyright (c) 2012 Gus Hovland  
