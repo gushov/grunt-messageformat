@@ -1,7 +1,7 @@
 {
   "name": "grunt-messageformat",
   "description": "messageformat.js's command line tool ported to a grunt plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/gushov/grunt-messageformat",
   "author": {
     "name": "Gus Hovland",
@@ -32,8 +32,8 @@
     "messageformat": "~0.1.5",
     "glob": "~3.1.14",
     "underscore": "~1.4.3",
-    "async": "~01.22"
-  }
+    "async": "~0.1.22"
+  },
   "devDependencies": {
     "grunt": "~0.3.17"
   },
