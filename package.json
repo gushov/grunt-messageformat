@@ -1,7 +1,7 @@
 {
   "name": "grunt-messageformat",
   "description": "messageformat.js's command line tool ported to a grunt plugin",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "homepage": "https://github.com/gushov/grunt-messageformat",
   "author": {
     "name": "Gus Hovland",
