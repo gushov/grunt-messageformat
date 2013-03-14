@@ -6,7 +6,7 @@
  * grunt-messageformat
  * https://github.com/gushov/grunt-messageformat
  *
- * Copyright (c) 2012 August Hovland
+ * Copyright (c) 2013 Gus Hovland
  * Licensed under the MIT license.
  */
 

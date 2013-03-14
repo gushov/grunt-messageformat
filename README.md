@@ -37,6 +37,10 @@ grunt.initConfig({
 }
 ```
 
+## Release History
+
+ * 2013-03-14 v0.2.0 Switched to grunt 0.4 
+
 ## License
-Copyright (c) 2012 Gus Hovland  
+Copyright (c) 2013 Gus Hovland  
 Licensed under the MIT license.
