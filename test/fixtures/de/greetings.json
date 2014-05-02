@@ -1,4 +1,5 @@
 {
   "hello": "Guten Tag",
-  "goodbye": "Auf Wiedersehen"
+  "goodbye": "Auf Wiedersehen",
+  "myname": "Mein Name ist {FIRST_NAME}"
 }
