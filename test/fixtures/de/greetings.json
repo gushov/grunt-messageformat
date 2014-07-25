@@ -1,4 +1,5 @@
 {
   "hello": "Guten Tag",
-  "goodbye": "Auf Wiedersehen"
+  "goodbye": "Auf Wiedersehen",
+  "people": "{PEOPLE, plural, one {# Person} other {# Personen}}"
 }
