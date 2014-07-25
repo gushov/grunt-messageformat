@@ -1,4 +1,5 @@
 {
   "hello": "this is my hello message",
-  "goodbye": "farewell"
+  "goodbye": "farewell",
+  "people": "{PEOPLE, plural, one {# person} other {# people}}"
 }
